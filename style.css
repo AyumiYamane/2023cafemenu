@@ -1,0 +1,86 @@
+@charset "utf-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 游明朝,"Yu Mincho",YuMincho,"Hiragino Mincho ProN","Hiragino Mincho Pro",HGS明朝E,メイリオ,Meiryo,serif;
+}
+header {
+  background: #333631;
+  padding: 30px;
+}
+header h1 {
+  color: white;
+  font-size: 36px;
+  letter-spacing: 4px;
+}
+main {
+  text-align: center;
+}
+main #hero img {
+  width: 100%;
+}
+main #about {
+  padding: 50px;
+}
+main #about h2 {
+  color: #1f3134;
+  letter-spacing: 4px;
+  font-size: 30px;
+}
+main #about p {
+  font-size: 14px;
+}
+main #menu {
+  padding: 20px;
+  background: #333631;
+}
+main #menu h2 {
+  color: white;
+  letter-spacing: 4px;
+  font-size: 26px;
+  padding-bottom: 10px;
+}
+main #menu p {
+  color: white;
+  font-size: 14px;
+  padding: 8px;
+}
+aside {
+  padding: 50px;
+  background: white;
+  text-align: center;
+}
+aside h2 {
+  color: #1f3134;
+  letter-spacing: 4px;
+  font-size: 30px;
+  padding-bottom: 20px;
+}
+aside p {
+  font-size: 14px;
+}
+aside figure {
+  padding: 10px 10px 0;
+}
+aside figure img {
+  width: 300px;
+}
+aside a {
+  padding: 8px 30px;
+  background: #69821b;
+  color: white;
+  font-size: 12px;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 25px;
+}
+footer {
+  background: #333631;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+
